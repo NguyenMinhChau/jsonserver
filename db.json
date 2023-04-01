@@ -1,0 +1,207 @@
+{
+  "classes": [
+    { "id": "1c0e6e74d27ccc155c2843b7", "class": "Ms. Mỹ Khuyên Đào" },
+    {
+      "id": "6d89c55cafbfb8fc3970ca8e",
+      "class": "Tuấn Hùng Lâm"
+    },
+    {
+      "id": "7c92f96d6119a705fcb5d490",
+      "class": "Duy An Nguyễn"
+    },
+    {
+      "id": "078df65bb6ddd19939a09fd1",
+      "class": "Hương Tiên Bùi V"
+    },
+    {
+      "id": "41bd4eb5ec11d257f44d43df",
+      "class": "Bích Ty Vương"
+    }
+  ],
+  "dataStudent": [
+    {
+      "id": "e5e146def8d7230c37fafed3",
+      "name": "Phương Quế Trịnh",
+      "username": "Nguyên Bảo",
+      "email": "LinHng.Vng@gmail.com",
+      "classId": "1c0e6e74d27ccc155c2843b7"
+    },
+    {
+      "id": "ad1cf38c450ce44bb39d7ebe",
+      "name": "Duy Khiêm Lâm",
+      "username": "Trường Nam",
+      "email": "ThyVi_L60@hotmail.com",
+      "classId": "1c0e6e74d27ccc155c2843b7"
+    },
+    {
+      "id": "ef0b83cea87f0bd2de31744d",
+      "name": "Duy Tuyền Mai",
+      "username": "Quang Anh",
+      "email": "KiuHoa63@gmail.com",
+      "classId": "1c0e6e74d27ccc155c2843b7"
+    },
+    {
+      "id": "8cbb2bde01a8fc14adcbd0a1",
+      "name": "Ngọc Minh Phùng",
+      "username": "Gia Ân",
+      "email": "TunTi_Phm55@hotmail.com",
+      "classId": "1c0e6e74d27ccc155c2843b7"
+    },
+    {
+      "id": "273ada1c56eb7eafef4128dc",
+      "name": "Phượng Nhi Mai",
+      "username": "Nhật Dạ",
+      "email": "HngTh73@gmail.com",
+      "classId": "1c0e6e74d27ccc155c2843b7"
+    },
+    {
+      "id": "873daea68e42c62fba3efa81",
+      "name": "Duy Tiếp Vũ",
+      "username": "Thiên Thêu",
+      "email": "TSng73@yahoo.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e"
+    },
+    {
+      "id": "9f50b5eb1d81ad6b96db24aa",
+      "name": "Duy Hiền Trương",
+      "username": "Thanh Thế",
+      "email": "ThyHng_Ng@gmail.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e"
+    },
+    {
+      "id": "26afb5f2bb4fcf30ff96dada",
+      "name": "Hải Bằng Đặng",
+      "username": "Diễm Trang",
+      "email": "NhtHuy_Dng68@yahoo.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e"
+    },
+    {
+      "id": "ac606f2a39596edec099ae84",
+      "name": "Hữu Châu Lâm",
+      "username": "Hoàng Hà",
+      "email": "ThanhHng_on48@yahoo.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e"
+    },
+    {
+      "id": "f92dc890dc534bdbdbee30ee",
+      "name": "Thế Năng Dương IV",
+      "username": "Nhật Khương",
+      "email": "MinhHng40@gmail.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e"
+    },
+    {
+      "id": "c3aac9d3ffbe2b1f551b5fbe",
+      "name": "Bá Lộc Đỗ",
+      "username": "Thúy Hường",
+      "email": "MNgc.37@yahoo.com",
+      "classId": "7c92f96d6119a705fcb5d490"
+    },
+    {
+      "id": "e9967dfa2ea6acb8cd878b25",
+      "name": "Mộng Vy Trần",
+      "username": "Nhã Thanh",
+      "email": "MinhTrung12@hotmail.com",
+      "classId": "7c92f96d6119a705fcb5d490"
+    },
+    {
+      "id": "e84d7c379780abb7dc6ec4fe",
+      "name": "Khắc Tuấn Ngô",
+      "username": "Gia Phong",
+      "email": "TtHiu17@gmail.com",
+      "classId": "7c92f96d6119a705fcb5d490"
+    },
+    {
+      "id": "cab81dafb1bf680aa2f6c9ea",
+      "name": "Ms. Mai Thy Đoàn",
+      "username": "Tường Anh",
+      "email": "DimPhng_Nguyn18@hotmail.com",
+      "classId": "7c92f96d6119a705fcb5d490"
+    },
+    {
+      "id": "ccaad2dfc4dde5ba12abb2aa",
+      "name": "Bá Thành Đoàn",
+      "username": "Mỹ Hiệp",
+      "email": "TrngGiang76@gmail.com",
+      "classId": "7c92f96d6119a705fcb5d490"
+    },
+    {
+      "id": "8c7fe6c25209bc0adc2e706f",
+      "name": "Nguyệt Lan Hà Sr.",
+      "username": "Quang Triều",
+      "email": "ThyNg0@hotmail.com",
+      "classId": "078df65bb6ddd19939a09fd1"
+    },
+    {
+      "id": "ce3fda468acc144f9a6fdd05",
+      "name": "Nguyên Bổng Đoàn",
+      "username": "Công Lộc",
+      "email": "XunTrang_L@gmail.com",
+      "classId": "078df65bb6ddd19939a09fd1"
+    },
+    {
+      "id": "0eb67ce88e1399a6e080d3b9",
+      "name": "Mr. Tâm Hằng Trần",
+      "username": "Anh Tú",
+      "email": "GiaHip_Phng@yahoo.com",
+      "classId": "078df65bb6ddd19939a09fd1"
+    },
+    {
+      "id": "a2e0bac15a87b3cf3105caa6",
+      "name": "Mrs. Thiên Phú Vũ",
+      "username": "Anh Ðào",
+      "email": "LmVin71@yahoo.com",
+      "classId": "078df65bb6ddd19939a09fd1"
+    },
+    {
+      "id": "b7dbfe9c4126cffb0e9369ed",
+      "name": "Tôn Lễ Lý",
+      "username": "Ðức Sinh",
+      "email": "ThuNgn_H@hotmail.com",
+      "classId": "078df65bb6ddd19939a09fd1"
+    },
+    {
+      "id": "635ce5aea34cfcdaed4fff7a",
+      "name": "Mr. Song Thư Hồ",
+      "username": "Huệ Linh",
+      "email": "VnDu.Trnh@gmail.com",
+      "classId": "41bd4eb5ec11d257f44d43df"
+    },
+    {
+      "id": "94a7cedf7177ba1dfdd103dd",
+      "name": "Hạ Vy Trần",
+      "username": "Công Tuấn",
+      "email": "XunNgc.Phm@hotmail.com",
+      "classId": "41bd4eb5ec11d257f44d43df"
+    },
+    {
+      "id": "ad6dc4dffd66bded74bfeeab",
+      "name": "Bửu Chưởng Mai MD",
+      "username": "Khánh Hoàng",
+      "email": "QunhTrang45@yahoo.com",
+      "classId": "41bd4eb5ec11d257f44d43df"
+    },
+    {
+      "id": "edceabcbe9efe3bbddfbedfb",
+      "name": "Mai Trinh Đỗ",
+      "username": "Lê Quỳnh",
+      "email": "VitPhng_L@hotmail.com",
+      "classId": "41bd4eb5ec11d257f44d43df"
+    },
+    {
+      "id": "618d47d6d7a9f5ed9390471d",
+      "name": "Mrs. Ðức Trung Lâm",
+      "username": "Huy Lĩnh",
+      "email": "SongLam24@hotmail.com",
+      "classId": "41bd4eb5ec11d257f44d43df"
+    },
+    {
+      "name": "Nguyễn Văn A",
+      "username": "Văn A",
+      "email": "nguyenVanAgmail.com",
+      "classId": "6d89c55cafbfb8fc3970ca8e",
+      "createdAt": 1679388220843,
+      "updatedAt": 1679388650740,
+      "id": "XWt7c3r"
+    }
+  ]
+}

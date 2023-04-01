@@ -1,0 +1,53 @@
+@baseUrl = http://localhost:3000/api
+
+# @name getAll Classes
+GET {{baseUrl}}/classes?_page=1&_limit=3
+###
+# @name add new Class
+POST {{baseUrl}}/classes
+Content-Type: application/json
+
+{
+    "class": "F"
+}
+###
+# @name update Class
+PATCH  {{baseUrl}}/classes/6
+Content-Type: application/json
+
+{
+    "class": "new F"
+}
+###
+# @name update Class
+DELETE  {{baseUrl}}/classes/6
+###
+# @name getAll Student
+GET {{baseUrl}}/dataStudent?_page=1&_limit=10
+###
+# @name add new Student
+POST {{baseUrl}}/dataStudent
+Content-Type: application/json
+
+{
+    "name": "Nguyễn Văn A",
+    "username": "Văn A",
+    "email": "NguyenVanAgmail.com",
+    "classId": "6d89c55cafbfb8fc3970ca8e"
+}
+
+###
+# @name update Class
+PATCH {{baseUrl}}/dataStudent/XWt7c3r
+Content-Type: application/json
+
+{
+    "name": "Nguyễn Văn A",
+    "username": "Văn A",
+    "email": "nguyenVanAgmail.com"
+}
+
+###
+GET {{baseUrl}}/dataStudent/XWt7c3r
+###
+DELETE {{baseUrl}}/dataStudent/iiAPv2S
